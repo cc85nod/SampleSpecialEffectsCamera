@@ -1,0 +1,7 @@
+snapshot/
+face_samples/
+__pycache__/
+samples/__pycache__/
+rcnn_weight/
+
+test.py
