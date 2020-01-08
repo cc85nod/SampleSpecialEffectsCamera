@@ -2,7 +2,7 @@
 The final project of course Computer vision
 
 ## Environment
-see environment.yml
+see [environment.yml](environment.yml)
 
 ## How to use
 ```bash
